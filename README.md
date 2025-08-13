@@ -2,7 +2,7 @@
 tangal 13 agustus 2025
 # Mengkoneksikan Mikrotik sebagai stasion ke Access Point
 
-![]()
+![T](HOL.jpeg)
 
 Mengkoneksikan Mikrotik sebagai station ke access Point ke Access Point :  
 
