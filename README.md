@@ -4,8 +4,9 @@ tangal 13 agustus 2025
 
 ![]()
 
-        Mengkoneksikan Mikrotik sebagai station ke access Point ke Access Point :
-        1. Koneksi Mikrotik ke AP  
+Mengkoneksikan Mikrotik sebagai station ke access Point ke Access Point :  
+
+         1. Koneksi Mikrotik ke AP  
           - Konfigurasi Security Wireless  
             Wireless>Security Profiles  
             klik ( + ) General  
@@ -55,6 +56,7 @@ Test koneksi Mikrotik ke Internet dengan cara Ping di terminal
           Out.Interface: wlan1
            dan di tab Action masukan:
           Action: masquerade
+          apply lalu ok
 
 ![]()
           
@@ -67,8 +69,8 @@ Test koneksi Mikrotik ke Internet dengan cara Ping di terminal
 
 ![]()
 
-   3. Konfigurasi IP Klien/Laptop
-      buka  network & internet settings pilih change adapter options masukan: 
+     3. Konfigurasi IP Klien/Laptop
+        buka  network & internet settings pilih change adapter options masukan: 
           IP address: 192.168.20.2
           Subnet mask: 255.255.255.0
           Default gateway: 192.168.20.1
@@ -78,7 +80,7 @@ Test koneksi Mikrotik ke Internet dengan cara Ping di terminal
 
 ![]()
 
-Test Koneksi Laptop ke Internet via cmd dengan cara ping google.com 
+   Test Koneksi Laptop ke Internet via cmd dengan cara ping google.com 
 
 ![]()
 
