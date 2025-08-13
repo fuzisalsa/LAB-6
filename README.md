@@ -17,7 +17,7 @@ Mengkoneksikan Mikrotik sebagai station ke access Point ke Access Point :
             WPA2 Pre-Shared Key : (pin wifi sndiri)  
             klik Apply lalu OK  
             
-![OYY](1.PNG)
+![OYY](SATU.PNG)
 
 ![]()
 
